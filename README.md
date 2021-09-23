@@ -68,7 +68,7 @@ This is the extent of my EC6 feature usage in this project.
 
 ### Typescript
 
-Typescript is involved in the project, but do not worry, simply using ```js npm install``` when you enter the project solves any sort of dependency problems. To install typescript in a react-app of your own, visit this [link.](https://create-react-app.dev/docs/adding-typescript/)
+Typescript is involved in the project, but do not worry, simply using ``` npm install``` when you enter the project solves any sort of dependency problems. To install typescript in a react-app of your own, visit this [link.](https://create-react-app.dev/docs/adding-typescript/)
 
 ### Ternary
 
