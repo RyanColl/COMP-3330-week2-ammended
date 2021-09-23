@@ -2,7 +2,7 @@
 
 ## Week 2
 
-In week 2, we discussed the basics of state. We use state to change variables in the React app by asking react to scan both the virtual DOM and the real DOM, and then change the real DOM to match the virtual one. This updates the page instead of refreshing ti, giving react its smooth ffel.
+In week 2, we discussed the basics of state. We use state to change variables in the React app by asking react to scan both the virtual DOM and the real DOM, and then change the real DOM to match the virtual one. This updates the page instead of refreshing it, giving react its smooth feel.
 
 ### ES6 Usage Examples
 
